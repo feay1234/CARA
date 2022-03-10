@@ -6,6 +6,12 @@ Contextual Attention Recurrent Architecture for Context-aware Venue Recommendati
 
 **Please cite our SIGIR'18 paper if you use our codes. Thanks!** 
 
+## Installation
+Create virtualenv then 
+```
+pip install -r requirements.txt
+```
+
 ## Environment Settings
 We use Keras with Theano as the backend. 
 - Python version: '3.7.11'
