@@ -1,8 +1,5 @@
 # Contextual Attention Recurrent Architecture for Context-aware Venue Recommendation
 
-The new version of CARA implementation is now available on Colab notebook.
-https://colab.research.google.com/drive/1yrLp016VNWLyatt1LlLW00pZwYVPf-M3
-
 This is our implementation for the paper:
 
 Contextual Attention Recurrent Architecture for Context-aware Venue Recommendation. Jarana Manotumruksa, Craig Macdonald and Iadh Ounis. In Proceedings of SIGIR 2018, Ann Arbor Michigan, U.S.A. July 8-12, 2018
