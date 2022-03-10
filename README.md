@@ -11,5 +11,6 @@ Contextual Attention Recurrent Architecture for Context-aware Venue Recommendati
 
 ## Environment Settings
 We use Keras with Theano as the backend. 
+- Python version: '3.7.11'
 - Keras version:  '1.2.2'
 - Theano version: '0.9.0'
